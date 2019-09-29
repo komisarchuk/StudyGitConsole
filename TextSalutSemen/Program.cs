@@ -11,6 +11,7 @@ namespace TextSalutSemen
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Good app");
             Console.ReadKey();
         }
     }
